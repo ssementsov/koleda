@@ -1,0 +1,14 @@
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.exe
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.deps.json
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.json
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.runtimeconfig.dev.json
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.dll
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\bin\Debug\netcoreapp3.1\01.pdb
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.csproj.AssemblyReference.cache
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.GeneratedMSBuildEditorConfig.editorconfig
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.AssemblyInfoInputs.cache
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.AssemblyInfo.cs
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.csproj.CoreCompileInputs.cache
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.dll
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.pdb
+D:\!_Учебный\V продолжение\GitHub\koleda\Course_Csharp\01\obj\Debug\netcoreapp3.1\01.genruntimeconfig.cache
