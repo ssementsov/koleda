@@ -16,6 +16,5 @@ namespace _001
             Console.WriteLine("Hello, World!");
             Console.ReadKey();
         }
-
     }
 }
