@@ -4,14 +4,18 @@ namespace _001
 {
     class Program
     {
-        
         static void Main(string[] args)
         {
-            //TODO
-            //UNDONE
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Red;
             Console.WriteLine("Hello, World!");
-            Console.ReadKey(); //HACK
-
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.WriteLine("Hello, World!");
+            Console.ResetColor();
+            Console.WriteLine("Hello, World!");
+            Console.ReadKey();
         }
+
     }
 }
