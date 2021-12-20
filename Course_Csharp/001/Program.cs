@@ -8,12 +8,8 @@ namespace _001
         {
             Console.ForegroundColor = ConsoleColor.White;
             Console.BackgroundColor = ConsoleColor.Red;
-            Console.WriteLine("Hello, World!");
-            Console.ForegroundColor = ConsoleColor.Black;
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello,");
             Console.ResetColor();
-            Console.WriteLine("Hello, World!");
             Console.ReadKey();
         }
     }
