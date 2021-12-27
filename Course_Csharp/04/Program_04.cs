@@ -12,19 +12,6 @@ namespace _04
                 Console.WriteLine($"Foreground color set to {Console.ForegroundColor}");
             }
             Console.ReadKey();
-
-
-
-            //Console.WriteLine(5 + double.NaN);
-            //Console.WriteLine(0f / 0);
-            
-            //float zero = 0;
-            //float positive = 1 / zero;
-            //Console.WriteLine(positive);    // Outputs "Infinity"
-            //float negative = -1 / zero;
-            //Console.WriteLine(negative);    // Outputs "-Infinity"
-            //Console.WriteLine("PositiveInfinity plus 10.0 equals {0}.", (Double.PositiveInfinity + 10.0));
-        
         }
     }
 }
