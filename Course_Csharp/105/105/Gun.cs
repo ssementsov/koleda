@@ -23,14 +23,14 @@ namespace _105
             cartridge--;
         }
 
-        public void Charge(int reserve, int cartridge)
+        public void Charge()
         {
-            while (this.reserve > 0 && this.cartridge < clip)
+            while (reserve > 0 && cartridge < clip)
             {
-                this.reserve--;
-                this.cartridge++;
+                reserve--;
+                cartridge++;
             }
-            Console.WriteLine($"{this.cartridge} cartridges are loaded into the clip");
+            Console.WriteLine($"{cartridge} cartridges are loaded into the clip");
         }
         public int Reserve
         {

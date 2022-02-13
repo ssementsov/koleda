@@ -7,7 +7,7 @@ namespace _105
         static void Main(string[] args)
         {
             var gun = new Gun();
-            gun.Reserve = gun.Reserve - gun.Cartridge;
+            gun.Reserve -= gun.Cartridge;
 
             while (gun.Reserve > 0 | gun.Cartridge > 0)
             {
@@ -18,19 +18,10 @@ namespace _105
                 {
                     break;
                 }
-
                 int shooting = 0;
                 if (gun.Cartridge < gun.Clip)
                 {
-                    if (gun.Reserve > 0)
-                    {
-                        gun.Charge(gun.Reserve, gun.Cartridge);
-                    }
-                    else
-                    {
-                        Console.WriteLine("We're out of ammo!");
-                        break;
-                    }
+                    gun.Charge();
                 }
                 do
                 {
@@ -41,7 +32,7 @@ namespace _105
                     }
                     else if (gun.Reserve > 0)
                     {
-                        gun.Charge(gun.Reserve, gun.Cartridge);
+                        gun.Charge();
                     }
                     else
                     {
